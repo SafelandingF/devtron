@@ -43,6 +43,7 @@
     "watchify": "^3.11.1"
   },
   "dependencies": {
+    "@types/chrome": "^0.0.308",
     "@types/node": "^22.13.9",
     "accessibility-developer-tools": "^2.12.0",
     "electron": "^35.0.0",
